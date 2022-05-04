@@ -3,3 +3,5 @@ with add commit and then  push to remote repo
 
 then updated content in remote repository and then need to  pull into local rpository
 
+then after taking push in local edited file 
+and commiting it and later push into remote repo
